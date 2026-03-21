@@ -1,0 +1,8 @@
+torch
+torchvision
+timm
+fvcore
+einops
+numpy
+tensorboard
+causal-conv1d
