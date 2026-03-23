@@ -3,7 +3,9 @@
 # MFil-Mamba: Multi-Filter Scanning for Spatial Redundancy-Aware Visual State Space Models
 
 
-Official pytorch implementation of MFil-Mamba.
+Official pytorch implementation of [MFil-Mamba](https://arxiv.org/pdf/2603.20074).
+
+[![Paper](https://img.shields.io/badge/cs.CV-2603.20074-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/pdf/2603.20074)
 
 ## Abstract
 
